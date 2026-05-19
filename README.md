@@ -1,6 +1,6 @@
 # PromptSense
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/db00a79b-dedf-4cf9-b0a9-9fdffea07777" />
+<img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/db00a79b-dedf-4cf9-b0a9-9fdffea07777" />
 
 
 PromptSense is a frontend-only TypeScript app for live prompt impact analysis.
