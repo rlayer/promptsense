@@ -7,7 +7,8 @@ the current prompt against that checkpoint. It asks the selected model which
 prompt phrases may be affected, then shows a checkpoint diff, phrase-level
 highlights, impact score, insight cards, side effects, and suggested checks.
 
-<img width="1197" height="718" alt="image" src="https://github.com/user-attachments/assets/7928105a-2a99-4c1f-91f5-3e03a0486501" />
+<img width="1031" height="718" alt="image" src="https://github.com/user-attachments/assets/e7552637-a198-49e8-9db4-bdb3a8297f2d" />
+
 
 ## Workflow
 
